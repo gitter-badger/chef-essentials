@@ -1,5 +1,7 @@
 # Chef Essentials
 
+[![Join the chat at https://gitter.im/chef-training/chef-essentials](https://badges.gitter.im/chef-training/chef-essentials.svg)](https://gitter.im/chef-training/chef-essentials?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a repo for developing Chef Essentials.
 
 ## Abstract
